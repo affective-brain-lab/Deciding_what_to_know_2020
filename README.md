@@ -1,7 +1,7 @@
 # Deciding_what_to_know_2020
 Data Repository of Kelly and Sharot, Individual differences in information-seeking (in press)
 
-Short Data
+****Short Data
 Column 1: ID
 Column 2: Gender (1 = Male, 2 = Female)
 Column 3: Age
@@ -12,7 +12,6 @@ Column 7: Mean_Psych (Mean of Columns 4-6)
 Column 8: Action Beta (Experiment 1) or Mean Action Beta (Experiment 2)
 Column 9: Affect Beta (Experiment 1) or Mean Affect Beta (Experiment 2)
 Column 10: Cognition Beta (Experiment 1) or Mean Cognition Beta (Experiment 2)
-
 Long_Data
 Column 1: ID
 Column 2: Usefulness_Rating
