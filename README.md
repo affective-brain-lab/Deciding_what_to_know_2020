@@ -1,11 +1,21 @@
 # Deciding_what_to_know_2020
-Data Repository of Kelly and Sharot, Deciding what to know: Individual differences in information-seeking (under review)
-**Experiment 1_Behavioural_Data
-Column 1: ID 
-Column 2: Included_in_Study
-Column 3: Gender (1 = Male, 2 = Female)
-Column 4: Age
-Column 5: Ethnicity (1 = White, 2 = Black, 3 = Hispanic, 4 = Asian)
-Column 6: Education (0 = Other, 1 = High School Diploma, 2 = 2 Year Degree, 3 = 4 Year Degree, 4 = Postgraduate/Professional Doctorate) 
-Column 7: Income (0 = Under 5,000, 2 = 5,001 - 10,000, 3 = 10,001 - 15,000, 4 = 15,001 - 25,000, 5 = 25,001 - 35,000, 6 = 35,001- 50,000, 7 = 50,001 - 65,000. 8 = 65,001 - 80,000, 9 = 80,001 - 100,000, 10 = Over 100,000)
-Column 8: Zung_Total (Depression Total)
+Data Repository of Kelly and Sharot, Individual differences in information-seeking (in press)
+
+Short Data
+Column 1: ID
+Column 2: Gender (1 = Male, 2 = Female)
+Column 3: Age
+Column 4: AD (Anxious Depression Factor)
+Column 5: CIT (Complulsive Behaviour and Intrusive Thought Factor)
+Column 6: SW (Social Withdrawal Factor) 
+Column 7: Mean_Psych (Mean of Columns 4-6)
+Column 8: Action Beta (Experiment 1) or Mean Action Beta (Experiment 2)
+Column 9: Affect Beta (Experiment 1) or Mean Affect Beta (Experiment 2)
+Column 10: Cognition Beta (Experiment 1) or Mean Cognition Beta (Experiment 2)
+
+Long_Data
+Column 1: ID
+Column 2: Usefulness_Rating
+Column 3: Expected_Feeling_Rating
+Column 4: Often_Thought_About_Rating
+Column 5: Confidence_Rating
