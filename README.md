@@ -15,7 +15,8 @@ Column 10: Cognition Beta (Experiment 1) or Mean Cognition Beta (Experiment 2);
 
 Long_Data:
 Column 1: ID;
-Column 2: Usefulness_Rating;
-Column 3: Expected_Feeling_Rating;
-Column 4: Often_Thought_About_Rating;
-Column 5: Confidence_Rating;
+Column 2: Usefulness_Rating, within-person mean centred;
+Column 3: Expected_Feeling_Rating, within-person mean centred;
+Column 4: Often_Thought_About_Rating, within-person mean centred;
+Column 5: Information-seeking Choice;
+Column 6: Index
